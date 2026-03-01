@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "今際の死神",
+  "base_artist": "林原めぐみ",
+  "createdAt": "2026-03-01T16:56:47.852902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今際の死神",
+      "artist": "Megumi Hayashibara",
+      "has_synced": false,
+      "path": "select/01_今際の死神_Megumi_Hayashibara.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今際の死神",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/02_今際の死神_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "今際の死神",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/03_今際の死神_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今際の死神",
+      "artist": "林原 めぐみ",
+      "has_synced": false,
+      "path": "select/pl_01_今際の死神_林原_めぐみ.txt"
+    }
+  ]
+}
